@@ -1,0 +1,24 @@
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+// C# Program to Check whether the Entered Number is Even or Odd
+using System;
+
+public class OddEvenCheckProgram
+{
+    public static void Main(string[] args)
+    {
+            int i;
+            Console.Write("Enter a Number : ");
+            i = int.Parse(Console.ReadLine());
+            if (i % 2 == 0)
+            {
+                Console.Write("Even Number :"+i);
+                Console.Read();
+            }
+            else
+            {
+                Console.Write("an Odd Number :"+ i);
+                Console.Read();
+            }
+    }
+}
