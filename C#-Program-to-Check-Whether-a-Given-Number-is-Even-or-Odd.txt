@@ -1,6 +1,6 @@
 // Online C# Editor for free
 // Write, Edit and Run your C# code using C# Online Compiler
-// C# Program to Check  the Entered Number is Even or Odd
+// C# Program to Check   Even or Odd
 using System;
 
 public class OddEvenCheckProgram
